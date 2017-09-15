@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/Users/shockingjmh/Desktop/Project/Android-AppCounter-master/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/Users/shockingjmh/Desktop/Project/Android-AppCounter-master/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
         "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_home.xml",
         "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_home.xml"
     },
@@ -56,16 +60,24 @@
         "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_mode_close_item.xml"
     },
     {
-        "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
         "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/layout/appcount_list_view.xml",
         "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/src/main/res/layout/appcount_list_view.xml"
     },
     {
+        "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/shockingjmh/Desktop/Project/Android-AppCounter-master/app/build/intermediates/res/merged/debug/layout/appcount_list_view.xml",
+        "source": "/Users/shockingjmh/Desktop/Project/Android-AppCounter-master/app/src/main/res/layout/appcount_list_view.xml"
+    },
+    {
         "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/layout/abc_action_bar_decor_overlay.xml",
         "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/layout/abc_action_bar_decor_overlay.xml"
+    },
+    {
+        "merged": "/Users/shockingjmh/Desktop/Project/Android-AppCounter-master/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/shockingjmh/Desktop/Project/Android-AppCounter-master/app/src/main/res/layout/main.xml"
     },
     {
         "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",

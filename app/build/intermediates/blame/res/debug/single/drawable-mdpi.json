@@ -12,20 +12,20 @@
         "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_transparent_dark_holo.9.png"
     },
     {
-        "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png",
-        "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png"
-    },
-    {
-        "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_tab_selected_pressed_holo.9.png",
-        "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_selected_pressed_holo.9.png"
+        "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ic_search_api_holo_light.png",
+        "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_search_api_holo_light.png"
     },
     {
         "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ic_voice_search_api_holo_light.png",
         "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_voice_search_api_holo_light.png"
     },
     {
-        "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ic_search_api_holo_light.png",
-        "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ic_search_api_holo_light.png"
+        "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_tab_selected_pressed_holo.9.png",
+        "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_ab_stacked_transparent_light_holo.9.png"
     },
     {
         "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_list_focused_holo.9.png",
@@ -190,6 +190,10 @@
     {
         "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_cab_background_bottom_holo_dark.9.png",
         "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable-mdpi/abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/shockingjmh/Desktop/Project/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/shockingjmh/Desktop/Project/Android-AppCounter-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable-mdpi/abc_ab_bottom_solid_light_holo.9.png",

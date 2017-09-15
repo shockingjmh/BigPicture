@@ -12,6 +12,10 @@
         "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_spinner_ab_holo_light.xml"
     },
     {
+        "merged": "/Users/shockingjmh/Desktop/Project/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable/bg_main_icon.png",
+        "source": "/Users/shockingjmh/Desktop/Project/Android-AppCounter-master/app/src/main/res/drawable/bg_main_icon.png"
+    },
+    {
         "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable/abc_spinner_ab_holo_dark.xml",
         "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_spinner_ab_holo_dark.xml"
     },
@@ -62,6 +66,10 @@
     {
         "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/18.0.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/shockingjmh/Desktop/Project/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable/bg_splash.png",
+        "source": "/Users/shockingjmh/Desktop/Project/Android-AppCounter-master/app/src/main/res/drawable/bg_splash.png"
     },
     {
         "merged": "/Users/shockingjmh/StudioProjects/Android-AppCounter-master/app/build/intermediates/res/merged/debug/drawable/bg_splash.png",
